@@ -1,0 +1,36 @@
+* {
+	margin: 0;
+	outline: none;
+	padding:0; 
+}
+body{
+	background: #FFE4C4;
+	font-family: "PT sans" sans-serif;
+}
+.wrapper {
+	width: 600px;
+	margin:100px auto;
+	background: #F0E68C;
+	padding:30px;
+}
+.input-login{
+	width: 560px;
+	height: 50px;
+	border: none;
+	padding: 0 20px;
+	margin: 20px;
+	color: #6A5ACD;
+	background: #FFDEAD;
+	font-size: 17px;
+}
+.submit {
+	padding: 10px 30px ;
+	border: none;
+	color: #DA70D6;
+	background:#FFC0CB ;
+	cursor: pointer;
+}
+.submit-hover {
+	background: #B0E0E6;
+
+}
